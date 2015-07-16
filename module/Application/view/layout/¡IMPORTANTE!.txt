@@ -1,0 +1,1 @@
+Cuando agrego un nuevo "layout" tengo que indicarlo en el "module.config" en la línea 96.

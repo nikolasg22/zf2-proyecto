@@ -1,0 +1,1 @@
+Cuando se crea un nuevo controlador hay que especificarlo en el documento "module.config.php" en la linea 80 en adelante
